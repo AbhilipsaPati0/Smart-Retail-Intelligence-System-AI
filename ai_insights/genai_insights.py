@@ -4,7 +4,7 @@ from openai import OpenAI
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=os.getenv("put your OPENAI_API_KEY"))
 
 def generate_genai_insights(rmse, r2, top_features):
     """
