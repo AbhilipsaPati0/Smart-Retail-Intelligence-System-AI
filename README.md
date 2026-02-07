@@ -1,4 +1,4 @@
-![image]()
+
  # Smart-Retail-Intelligence-System-AI
 Smart Retail Intelligence System – Walmart Sales Analysis
 📌 Project Overview
@@ -22,30 +22,7 @@ Present insights through interactive Power BI dashboards
 Generate rule-based + AI-generated insights (optional GenAI layer)
 
 🗂️ Project Structure
-Smart-Retail-Intelligence-System-AI/
-│
-├── data/
-│   └── Walmart.csv
-│
-├── notebooks/
-│   ├── 1_dataloading.ipynb
-│   ├── 2_data_cleaning.ipynb
-│   ├── 3_eda.ipynb
-│   ├── 4_feature_engineering.ipynb
-│   └── 5_sales_forecasting_model.ipynb
-│
-├── sql/
-│   └── walmart_business_queries.sql
-│
-├── ai_insights/
-│   ├── insight_generator.py
-│   └── genai_insights.py
-│
-├── powerbi/
-│   └── Walmart_Sales_Analytics.pbix
-│
-├── README.md
-└── .gitignore
+![image](https://github.com/AbhilipsaPati0/Smart-Retail-Intelligence-System-AI/blob/0638d94a808b926360c4dc8fde90facd9815bf25/Screenshot%202026-02-07%20160426.png)
 
 🧪 Dataset Description
 
@@ -240,3 +217,4 @@ Abhilipsa Pati
 B.Tech CSE | Data Analytics & Software Development
 
 🔗 GitHub: AbhilipsaPati0
+
